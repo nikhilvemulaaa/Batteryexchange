@@ -16,9 +16,6 @@ BharatCharge is a **modern, AI-powered battery exchange web platform** designed 
 
 ---
 
-## 🌐 Live Demo
-
-> [🚀 Click Here to View the Live Project](https://your-bharatcharge-demo-link.com)
 
 ---
 
