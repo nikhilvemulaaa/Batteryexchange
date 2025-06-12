@@ -1,5 +1,5 @@
 # ⚡ BharatCharge – India’s Intelligent Battery Service Exchange Platform 🇮🇳🔋
-
+URL: https://lnkd.in/g4vGViKq
 BharatCharge is a **modern, AI-powered battery exchange web platform** designed for Indian EV users in collaboration with state governments. It empowers the public with **real-time battery station data**, **interactive visualizations**, and a **personalized GenAI chatbot assistant**. Built with privacy, performance, and accessibility in mind, BharatCharge aims to be the national backbone of smart battery mobility.
 
 ---
